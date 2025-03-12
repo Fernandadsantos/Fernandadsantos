@@ -13,6 +13,7 @@
 </div>
 
    ![fernandadsantos GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandadsantos&show_icons=true&theme=gotham) 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandadsantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="195" alt="languages graph"  />
  
   ## 🔥 Skills
   <div style="flex-basis: 48%;">
